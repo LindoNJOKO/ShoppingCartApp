@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\lindo\OneDrive\Documents\Uni\Year 2\PROG6221\ICE TASKS\ST10021160 ICE TASK 1.cs" Link="ST10021160 ICE TASK 1.cs" />
+  </ItemGroup>
+
+</Project>
